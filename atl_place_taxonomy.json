@@ -1,0 +1,51 @@
+{
+    "version": "1.0",
+    "generated_at": "2025-09-15T00:00:00Z",
+    "atl_place_categories": [
+      {
+        "atl_place_cat_id": 1,
+        "title": "Food & Drink",
+        "slug": "food-and-drink",
+        "description": "Places serving food or beverages in the Atlanta metro."
+      }
+    ],
+    "atl_place_sub_categories": [
+      {
+        "atl_place_sub_cat_id": 1,
+        "atl_place_cat_id": 1,
+        "title": "Restaurant",
+        "slug": "restaurant",
+        "description": "Full-service or counter-service restaurants."
+      },
+      {
+        "atl_place_sub_cat_id": 2,
+        "atl_place_cat_id": 1,
+        "title": "Healthy Restaurant",
+        "slug": "healthy-restaurant",
+        "description": "Restaurants emphasizing nutrient-dense menu options."
+      },
+      {
+        "atl_place_sub_cat_id": 3,
+        "atl_place_cat_id": 1,
+        "title": "Beverage Bar",
+        "slug": "beverage-bar",
+        "description": "Juice, smoothie, tea, or coffee-focused venues."
+      },
+      {
+        "atl_place_sub_cat_id": 4,
+        "atl_place_cat_id": 1,
+        "title": "Burger Restaurant",
+        "slug": "burger-restaurant",
+        "description": "Restaurants primarily serving burgers and related sides."
+      },
+      {
+        "atl_place_sub_cat_id": 5,
+        "atl_place_cat_id": 1,
+        "title": "Salad Shop",
+        "slug": "salad-shop",
+        "description": "Fast-casual salad restaurants featuring build-your-own bowls, wraps, and fresh toppings."
+      }
+
+    ]
+  }
+  

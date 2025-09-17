@@ -1,0 +1,857 @@
+[
+    {
+      "atl_place": {
+        "atl_place_id": 1,
+        "title": "Hopdoddy Burger Bar",
+        "slug": "hopdoddy-burger-bar",
+        "description": "Contemporary burger restaurant known for premium patties, creative toppings, hand-cut fries, and shakes.",
+        "atl_place_sub_cat_id": 4,
+        "keywords_sub_cat_id": null,
+        "is_atl_verified": false,
+        "address": "2470 Briarcliff Rd NE, Atlanta, GA 30329",
+        "city_state": {
+          "cs_id": 1,
+          "title": "Atlanta",
+          "slug": "atlanta",
+          "county": {
+            "county_id": 1,
+            "title": "DeKalb County",
+            "slug": "dekalb-county"
+          }
+        },
+        "lat": 33.82300,
+        "lng": -84.32400,
+        "open_status": "unknown",
+        "created_at": "2025-09-15T00:00:00Z",
+        "updated_at": "2025-09-15T00:00:00Z",
+        "description_source": "auto"
+      },
+      "menus": [
+        {
+          "atl_place_menu_id": 1,
+          "atl_place_id": 1,
+          "place_type": "restaurant",
+          "title": "Fries",
+          "description": "Hand-cut fries with specialty toppings.",
+          "is_active": true,
+          "item_count": 5,
+          "avg_nutrition_score": null,
+          "items": [
+            {
+              "atl_place_menu_item_id": 1,
+              "atl_place_menu_id": 1,
+              "title": "Parmesan Truffle Fries",
+              "description": null,
+              "price": 8.95,
+              "currency": "USD",
+              "is_available": true,
+              "nutrition_score": null,
+              "calories": 1240,
+              "protein_g": null,
+              "carbs_g": null,
+              "fat_g": null,
+              "tags": null
+            },
+            {
+              "atl_place_menu_item_id": 2,
+              "atl_place_menu_id": 1,
+              "title": "Traditional Hand-Cut Fries",
+              "description": null,
+              "price": 7.25,
+              "currency": "USD",
+              "is_available": true,
+              "nutrition_score": null,
+              "calories": 830,
+              "protein_g": null,
+              "carbs_g": null,
+              "fat_g": null,
+              "tags": null
+            },
+            {
+              "atl_place_menu_item_id": 3,
+              "atl_place_menu_id": 1,
+              "title": "Green Chile Queso Fries",
+              "description": null,
+              "price": 8.50,
+              "currency": "USD",
+              "is_available": true,
+              "nutrition_score": null,
+              "calories": 1190,
+              "protein_g": null,
+              "carbs_g": null,
+              "fat_g": null,
+              "tags": null
+            },
+            {
+              "atl_place_menu_item_id": 4,
+              "atl_place_menu_id": 1,
+              "title": "Sweet Potato Fries",
+              "description": null,
+              "price": 9.50,
+              "currency": "USD",
+              "is_available": true,
+              "nutrition_score": null,
+              "calories": 1100,
+              "protein_g": null,
+              "carbs_g": null,
+              "fat_g": null,
+              "tags": null
+            },
+            {
+              "atl_place_menu_item_id": 5,
+              "atl_place_menu_id": 1,
+              "title": "Hot Honey & Sage Sweets",
+              "description": null,
+              "price": 9.75,
+              "currency": "USD",
+              "is_available": true,
+              "nutrition_score": null,
+              "calories": 1030,
+              "protein_g": null,
+              "carbs_g": null,
+              "fat_g": null,
+              "tags": null
+            }
+          ]
+        },
+        {
+          "atl_place_menu_id": 2,
+          "atl_place_id": 1,
+          "place_type": "restaurant",
+          "title": "Crispy Brussel Leaves",
+          "description": "Crispy Brussels sprouts with specialty seasonings.",
+          "is_active": true,
+          "item_count": 2,
+          "avg_nutrition_score": null,
+          "items": [
+            {
+              "atl_place_menu_item_id": 6,
+              "atl_place_menu_id": 2,
+              "title": "Parmesan Truffle Brussel Leaves",
+              "description": null,
+              "price": 9.95,
+              "currency": "USD",
+              "is_available": true,
+              "nutrition_score": null,
+              "calories": 840,
+              "protein_g": null,
+              "carbs_g": null,
+              "fat_g": null,
+              "tags": null
+            },
+            {
+              "atl_place_menu_item_id": 7,
+              "atl_place_menu_id": 2,
+              "title": "Hot Honey & Sage Brussel Leaves",
+              "description": null,
+              "price": 10.75,
+              "currency": "USD",
+              "is_available": true,
+              "nutrition_score": null,
+              "calories": 640,
+              "protein_g": null,
+              "carbs_g": null,
+              "fat_g": null,
+              "tags": null
+            }
+          ]
+        },
+        {
+          "atl_place_menu_id": 3,
+          "atl_place_id": 1,
+          "place_type": "restaurant",
+          "title": "Side Fries",
+          "description": "Smaller portion fries; Traditional or Sweet. Calories vary by selection.",
+          "is_active": true,
+          "item_count": 2,
+          "avg_nutrition_score": null,
+          "items": [
+            {
+              "atl_place_menu_item_id": 8,
+              "atl_place_menu_id": 3,
+              "title": "Traditional Side Fries",
+              "description": "Calories vary (approx. 420–730).",
+              "price": 4.25,
+              "currency": "USD",
+              "is_available": true,
+              "nutrition_score": null,
+              "calories": null,
+              "protein_g": null,
+              "carbs_g": null,
+              "fat_g": null,
+              "tags": null
+            },
+            {
+              "atl_place_menu_item_id": 9,
+              "atl_place_menu_id": 3,
+              "title": "Sweet Side Fries",
+              "description": "Calories vary (approx. 420–730).",
+              "price": 5.50,
+              "currency": "USD",
+              "is_available": true,
+              "nutrition_score": null,
+              "calories": null,
+              "protein_g": null,
+              "carbs_g": null,
+              "fat_g": null,
+              "tags": null
+            }
+          ]
+        },
+        {
+          "atl_place_menu_id": 4,
+          "atl_place_id": 1,
+          "place_type": "restaurant",
+          "title": "Burgers",
+          "description": "Signature beef burgers with optional add-ons.",
+          "is_active": true,
+          "item_count": 5,
+          "avg_nutrition_score": null,
+          "items": [
+            {
+              "atl_place_menu_item_id": 10,
+              "atl_place_menu_id": 4,
+              "title": "The Classic",
+              "description": "Doddy mayo, lettuce, tomato & onion. Add Tillamook Cheddar (+$1.50, +110 cal) or Steakhouse Bacon (+$1.75, +60 cal).",
+              "price": 8.95,
+              "currency": "USD",
+              "is_available": true,
+              "nutrition_score": null,
+              "calories": 660,
+              "protein_g": null,
+              "carbs_g": null,
+              "fat_g": null,
+              "tags": ["customizable"]
+            },
+            {
+              "atl_place_menu_item_id": 11,
+              "atl_place_menu_id": 4,
+              "title": "Good Night / Good Cause",
+              "description": "Grass-fed beef, Tillamook cheddar, caramelized onions, jalapeños, caffeinated BBQ, Doddy mayo, lettuce & tomato.",
+              "price": 11.75,
+              "currency": "USD",
+              "is_available": true,
+              "nutrition_score": null,
+              "calories": 770,
+              "protein_g": null,
+              "carbs_g": null,
+              "fat_g": null,
+              "tags": null
+            },
+            {
+              "atl_place_menu_item_id": 12,
+              "atl_place_menu_id": 4,
+              "title": "Magic Shroom",
+              "description": "Goat cheese, mushrooms, mayo, basil pesto, lettuce, tomato & onion.",
+              "price": 11.75,
+              "currency": "USD",
+              "is_available": true,
+              "nutrition_score": null,
+              "calories": 800,
+              "protein_g": null,
+              "carbs_g": null,
+              "fat_g": null,
+              "tags": null
+            },
+            {
+              "atl_place_menu_item_id": 13,
+              "atl_place_menu_id": 4,
+              "title": "El Diablo",
+              "description": "Pepper jack, jalapeños & habaneros, caramelized onions, spicy salsa verde, chipotle aioli, lettuce & tomato.",
+              "price": 10.50,
+              "currency": "USD",
+              "is_available": true,
+              "nutrition_score": null,
+              "calories": 810,
+              "protein_g": null,
+              "carbs_g": null,
+              "fat_g": null,
+              "tags": ["spicy"]
+            },
+            {
+              "atl_place_menu_item_id": 14,
+              "atl_place_menu_id": 4,
+              "title": "Double Bacon Jam",
+              "description": "Two 1/4 lb patties, white & yellow American cheese, tomato bacon jam, mustard grilled onions, pickles & mayo.",
+              "price": 11.75,
+              "currency": "USD",
+              "is_available": true,
+              "nutrition_score": null,
+              "calories": 1160,
+              "protein_g": null,
+              "carbs_g": null,
+              "fat_g": null,
+              "tags": null
+            }
+          ]
+        },
+        {
+          "atl_place_menu_id": 5,
+          "atl_place_id": 1,
+          "place_type": "restaurant",
+          "title": "Specialty",
+          "description": "Premium patties and specialty builds.",
+          "is_active": true,
+          "item_count": 5,
+          "avg_nutrition_score": null,
+          "items": [
+            {
+              "atl_place_menu_item_id": 15,
+              "atl_place_menu_id": 5,
+              "title": "Wagyu Mash",
+              "description": "Double wagyu smash patties, American cheese, shaved onions, pickled jalapeños & HD secret sauce.",
+              "price": 13.95,
+              "currency": "USD",
+              "is_available": true,
+              "nutrition_score": null,
+              "calories": 1070,
+              "protein_g": null,
+              "carbs_g": null,
+              "fat_g": null,
+              "tags": null
+            },
+            {
+              "atl_place_menu_item_id": 16,
+              "atl_place_menu_id": 5,
+              "title": "Cadillac Wagyu",
+              "description": "1/2 lb wagyu beef, Swiss, steakhouse bacon, crispy fried onions, steak sauce, truffle aioli, roasted tomato & arugula.",
+              "price": 15.95,
+              "currency": "USD",
+              "is_available": true,
+              "nutrition_score": null,
+              "calories": 1140,
+              "protein_g": null,
+              "carbs_g": null,
+              "fat_g": null,
+              "tags": null
+            },
+            {
+              "atl_place_menu_item_id": 17,
+              "atl_place_menu_id": 5,
+              "title": "Doddy Melt",
+              "description": "Two smashed beef patties, Swiss & American, caramelized onions, mayo & comeback sauce on grilled rye bread.",
+              "price": 13.95,
+              "currency": "USD",
+              "is_available": true,
+              "nutrition_score": null,
+              "calories": 1310,
+              "protein_g": null,
+              "carbs_g": null,
+              "fat_g": null,
+              "tags": null
+            },
+            {
+              "atl_place_menu_item_id": 18,
+              "atl_place_menu_id": 5,
+              "title": "Buffalo Bill",
+              "description": "Grass-fed bison, bacon, blue cheese spread, buffalo sauce, Doddy mayo, lettuce, tomato & onion.",
+              "price": 15.50,
+              "currency": "USD",
+              "is_available": true,
+              "nutrition_score": null,
+              "calories": 710,
+              "protein_g": null,
+              "carbs_g": null,
+              "fat_g": null,
+              "tags": null
+            },
+            {
+              "atl_place_menu_item_id": 19,
+              "atl_place_menu_id": 5,
+              "title": "Ahi Tuna",
+              "description": "Ground sushi-grade tuna seared rare, nori chips, teriyaki, cucumber wasabi, mayo, pickled ginger, lettuce, tomato & onion.",
+              "price": 14.50,
+              "currency": "USD",
+              "is_available": true,
+              "nutrition_score": null,
+              "calories": 600,
+              "protein_g": null,
+              "carbs_g": null,
+              "fat_g": null,
+              "tags": ["seafood"]
+            }
+          ]
+        },
+        {
+          "atl_place_menu_id": 6,
+          "atl_place_id": 1,
+          "place_type": "restaurant",
+          "title": "Chicken",
+          "description": "Chicken sandwiches and tenders.",
+          "is_active": true,
+          "item_count": 4,
+          "avg_nutrition_score": null,
+          "items": [
+            {
+              "atl_place_menu_item_id": 20,
+              "atl_place_menu_id": 6,
+              "title": "Nashville Hot Chicken",
+              "description": "Crispy fried chicken, Nashville spices, cabbage slaw, mayo, Alabama comeback sauce & pickles.",
+              "price": 11.75,
+              "currency": "USD",
+              "is_available": true,
+              "nutrition_score": null,
+              "calories": 960,
+              "protein_g": null,
+              "carbs_g": null,
+              "fat_g": null,
+              "tags": ["spicy"]
+            },
+            {
+              "atl_place_menu_item_id": 21,
+              "atl_place_menu_id": 6,
+              "title": "Crispy Chicken Bacon Ranch",
+              "description": "Crispy fried chicken, steakhouse bacon, white American, crispy onions, ranch slaw, chipotle aioli & pickles.",
+              "price": 12.25,
+              "currency": "USD",
+              "is_available": true,
+              "nutrition_score": null,
+              "calories": 1090,
+              "protein_g": null,
+              "carbs_g": null,
+              "fat_g": null,
+              "tags": null
+            },
+            {
+              "atl_place_menu_item_id": 22,
+              "atl_place_menu_id": 6,
+              "title": "Tossed Tenders",
+              "description": "Hand-breaded tenders served plain or tossed in BBQ, Hot Honey, or Buffalo sauce.",
+              "price": 12.50,
+              "currency": "USD",
+              "is_available": true,
+              "nutrition_score": null,
+              "calories": null,
+              "protein_g": null,
+              "carbs_g": null,
+              "fat_g": null,
+              "tags": ["sauce-options"]
+            },
+            {
+              "atl_place_menu_item_id": 23,
+              "atl_place_menu_id": 6,
+              "title": "Thunderbird",
+              "description": "Ground chicken patty, bacon, pepper jack, poblano, avocado, pico de gallo, chipotle aioli, lettuce.",
+              "price": 11.95,
+              "currency": "USD",
+              "is_available": true,
+              "nutrition_score": null,
+              "calories": 760,
+              "protein_g": null,
+              "carbs_g": null,
+              "fat_g": null,
+              "tags": null
+            }
+          ]
+        },
+        {
+          "atl_place_menu_id": 7,
+          "atl_place_id": 1,
+          "place_type": "restaurant",
+          "title": "Salad & Bowls",
+          "description": "Burger bowls and salads.",
+          "is_active": true,
+          "item_count": 3,
+          "avg_nutrition_score": null,
+          "items": [
+            {
+              "atl_place_menu_item_id": 24,
+              "atl_place_menu_id": 7,
+              "title": "Thunder Bowl",
+              "description": "House greens, apple cider vinaigrette, tomato & onion, grilled chicken patty, pepper jack, bacon, poblano, avocado, pico, chipotle aioli.",
+              "price": 13.95,
+              "currency": "USD",
+              "is_available": true,
+              "nutrition_score": null,
+              "calories": 750,
+              "protein_g": null,
+              "carbs_g": null,
+              "fat_g": null,
+              "tags": null
+            },
+            {
+              "atl_place_menu_item_id": 25,
+              "atl_place_menu_id": 7,
+              "title": "Diablo Bowl",
+              "description": "House greens, apple cider vinaigrette, tomato & onion, beef patty, pepper jack, caramelized onions, jalapeños & habaneros, spicy salsa verde, chipotle aioli.",
+              "price": 12.50,
+              "currency": "USD",
+              "is_available": true,
+              "nutrition_score": null,
+              "calories": 830,
+              "protein_g": null,
+              "carbs_g": null,
+              "fat_g": null,
+              "tags": ["spicy"]
+            },
+            {
+              "atl_place_menu_item_id": 26,
+              "atl_place_menu_id": 7,
+              "title": "Kale Caesar",
+              "description": null,
+              "price": 7.75,
+              "currency": "USD",
+              "is_available": true,
+              "nutrition_score": null,
+              "calories": 680,
+              "protein_g": null,
+              "carbs_g": null,
+              "fat_g": null,
+              "tags": null
+            }
+          ]
+        },
+        {
+          "atl_place_menu_id": 8,
+          "atl_place_id": 1,
+          "place_type": "restaurant",
+          "title": "Shakes",
+          "description": "Classic and specialty milkshakes.",
+          "is_active": true,
+          "item_count": 3,
+          "avg_nutrition_score": null,
+          "items": [
+            {
+              "atl_place_menu_item_id": 27,
+              "atl_place_menu_id": 8,
+              "title": "Tres Leches",
+              "description": "Vanilla custard, sweetened condensed milk & caramel.",
+              "price": 7.95,
+              "currency": "USD",
+              "is_available": true,
+              "nutrition_score": null,
+              "calories": 640,
+              "protein_g": null,
+              "carbs_g": null,
+              "fat_g": null,
+              "tags": ["dessert"]
+            },
+            {
+              "atl_place_menu_item_id": 28,
+              "atl_place_menu_id": 8,
+              "title": "Double Chocolate Brownie",
+              "description": "Custard blended with dark chocolate & gluten-free brownies.",
+              "price": 7.25,
+              "currency": "USD",
+              "is_available": true,
+              "nutrition_score": null,
+              "calories": 580,
+              "protein_g": null,
+              "carbs_g": null,
+              "fat_g": null,
+              "tags": ["dessert"]
+            },
+            {
+              "atl_place_menu_item_id": 29,
+              "atl_place_menu_id": 8,
+              "title": "Bananas Foster",
+              "description": "Custard blended with bananas; topped with caramelized sauce.",
+              "price": 7.25,
+              "currency": "USD",
+              "is_available": true,
+              "nutrition_score": null,
+              "calories": 600,
+              "protein_g": null,
+              "carbs_g": null,
+              "fat_g": null,
+              "tags": ["dessert"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+        "atl_place": {
+          "atl_place_id": 2,
+          "title": "Salata Salad Kitchen",
+          "slug": "salata-salad-kitchen",
+          "description": "Build-your-own salads, wraps, and lemonades with a wide selection of fresh proteins, greens, toppings, and dressings.",
+          "atl_place_sub_cat_id": 5,
+          "keywords_sub_cat_id": null,
+          "is_atl_verified": false,
+          "address": "650 Ponce De Leon Ave Suite #680A, Atlanta, GA 30308",
+          "city_state": {
+            "cs_id": 1,
+            "title": "Atlanta",
+            "slug": "atlanta",
+            "county": {
+              "county_id": 2,
+              "title": "Fulton County",
+              "slug": "fulton-county"
+            }
+          },
+          "lat": 33.7727,
+          "lng": -84.3665,
+          "open_status": "unknown",
+          "created_at": "2025-09-15T00:00:00Z",
+          "updated_at": "2025-09-15T00:00:00Z",
+          "description_source": "auto"
+        },
+        "menus": [
+          {
+            "atl_place_menu_id": 9,
+            "atl_place_id": 2,
+            "place_type": "restaurant",
+            "title": "Protein",
+            "description": "Protein choices for custom salads/wraps.",
+            "is_active": true,
+            "item_count": 10,
+            "avg_nutrition_score": null,
+            "items": [
+              { "atl_place_menu_item_id": 30, "atl_place_menu_id": 9, "title": "Grilled Chicken", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 190, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["protein"] },
+              { "atl_place_menu_item_id": 31, "atl_place_menu_id": 9, "title": "Spicy Chipotle Chicken", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 190, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["protein","spicy"] },
+              { "atl_place_menu_item_id": 32, "atl_place_menu_id": 9, "title": "Turkey", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 90, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["protein","lean"] },
+              { "atl_place_menu_item_id": 33, "atl_place_menu_id": 9, "title": "Shrimp", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 100, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["seafood","protein"] },
+              { "atl_place_menu_item_id": 34, "atl_place_menu_id": 9, "title": "Salmon", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 190, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["seafood","omega-3"] },
+              { "atl_place_menu_item_id": 35, "atl_place_menu_id": 9, "title": "Krabmeat", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 170, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["seafood"] },
+              { "atl_place_menu_item_id": 36, "atl_place_menu_id": 9, "title": "Seafood Mix", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 150, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["seafood"] },
+              { "atl_place_menu_item_id": 37, "atl_place_menu_id": 9, "title": "Falafel", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 130, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["vegetarian","protein"] },
+              { "atl_place_menu_item_id": 38, "atl_place_menu_id": 9, "title": "Quinoa", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 100, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["whole-grain"] },
+              { "atl_place_menu_item_id": 39, "atl_place_menu_id": 9, "title": "Steak", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 190, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["protein","red-meat"] }
+            ]
+          },
+          {
+            "atl_place_menu_id": 10,
+            "atl_place_id": 2,
+            "place_type": "restaurant",
+            "title": "Base Greens",
+            "description": "Greens and mixes as salad bases.",
+            "is_active": true,
+            "item_count": 7,
+            "avg_nutrition_score": null,
+            "items": [
+              { "atl_place_menu_item_id": 40, "atl_place_menu_id": 10, "title": "Salata Mix", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 40, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["greens"] },
+              { "atl_place_menu_item_id": 41, "atl_place_menu_id": 10, "title": "Romaine Hearts", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 30, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["greens"] },
+              { "atl_place_menu_item_id": 42, "atl_place_menu_id": 10, "title": "Arcadian Mix", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 20, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["greens"] },
+              { "atl_place_menu_item_id": 43, "atl_place_menu_id": 10, "title": "Kale", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 30, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["greens","superfood"] },
+              { "atl_place_menu_item_id": 44, "atl_place_menu_id": 10, "title": "Spinach", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 20, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["greens"] },
+              { "atl_place_menu_item_id": 45, "atl_place_menu_id": 10, "title": "Arugula", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 20, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["greens","peppery"] },
+              { "atl_place_menu_item_id": 46, "atl_place_menu_id": 10, "title": "Iceberg", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 35, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["greens"] }
+            ]
+          },
+          {
+            "atl_place_menu_id": 11,
+            "atl_place_id": 2,
+            "place_type": "restaurant",
+            "title": "Dressings",
+            "description": "House-made dressings; calories per standard serving.",
+            "is_active": true,
+            "item_count": 14,
+            "avg_nutrition_score": null,
+            "items": [
+              { "atl_place_menu_item_id": 47, "atl_place_menu_id": 11, "title": "Fresh Herb Vinaigrette", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 290, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["dressing"] },
+              { "atl_place_menu_item_id": 48, "atl_place_menu_id": 11, "title": "Buttermilk", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 230, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["dressing","creamy"] },
+              { "atl_place_menu_item_id": 49, "atl_place_menu_id": 11, "title": "Ginger Lime", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 300, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["dressing"] },
+              { "atl_place_menu_item_id": 50, "atl_place_menu_id": 11, "title": "Classic Caesar", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 290, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["dressing","creamy"] },
+              { "atl_place_menu_item_id": 51, "atl_place_menu_id": 11, "title": "Fat-Free Sun-Dried Tomato", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 10, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["dressing","fat-free"] },
+              { "atl_place_menu_item_id": 52, "atl_place_menu_id": 11, "title": "Honey Mustard", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 270, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["dressing"] },
+              { "atl_place_menu_item_id": 53, "atl_place_menu_id": 11, "title": "Balsamic Vinaigrette", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 290, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["dressing"] },
+              { "atl_place_menu_item_id": 54, "atl_place_menu_id": 11, "title": "Fat-Free Mango", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 40, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["dressing","fat-free"] },
+              { "atl_place_menu_item_id": 55, "atl_place_menu_id": 11, "title": "Lemon Vinaigrette", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 280, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["dressing"] },
+              { "atl_place_menu_item_id": 56, "atl_place_menu_id": 11, "title": "Oil & Vinegar", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 280, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["dressing","simple"] },
+              { "atl_place_menu_item_id": 57, "atl_place_menu_id": 11, "title": "Chipotle Ranch", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 220, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["dressing","spicy"] },
+              { "atl_place_menu_item_id": 58, "atl_place_menu_id": 11, "title": "Olive Oil", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 130, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["dressing","simple"] },
+              { "atl_place_menu_item_id": 59, "atl_place_menu_id": 11, "title": "Balsamic Vinegar", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 20, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["dressing","simple"] },
+              { "atl_place_menu_item_id": 60, "atl_place_menu_id": 11, "title": "Jalapeño Avocado", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 164, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["dressing","spicy","creamy"] }
+            ]
+          },
+          {
+            "atl_place_menu_id": 12,
+            "atl_place_id": 2,
+            "place_type": "restaurant",
+            "title": "Fruits",
+            "description": "Fresh fruits for salads and bowls.",
+            "is_active": true,
+            "item_count": 6,
+            "avg_nutrition_score": null,
+            "items": [
+              { "atl_place_menu_item_id": 61, "atl_place_menu_id": 12, "title": "Apple", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 15, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["fruit"] },
+              { "atl_place_menu_item_id": 62, "atl_place_menu_id": 12, "title": "Dried Cranberries", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 70, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["fruit","sweet"] },
+              { "atl_place_menu_item_id": 63, "atl_place_menu_id": 12, "title": "Grapes", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 20, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["fruit"] },
+              { "atl_place_menu_item_id": 64, "atl_place_menu_id": 12, "title": "Mandarin Orange", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 20, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["fruit","citrus"] },
+              { "atl_place_menu_item_id": 65, "atl_place_menu_id": 12, "title": "Pineapple", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 15, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["fruit","tropical"] },
+              { "atl_place_menu_item_id": 66, "atl_place_menu_id": 12, "title": "Strawberry", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 10, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["fruit","berry"] }
+            ]
+          },
+          {
+            "atl_place_menu_id": 13,
+            "atl_place_id": 2,
+            "place_type": "restaurant",
+            "title": "Vegetables",
+            "description": "Vegetable toppings; calories per serving.",
+            "is_active": true,
+            "item_count": 18,
+            "avg_nutrition_score": null,
+            "items": [
+              { "atl_place_menu_item_id": 67, "atl_place_menu_id": 13, "title": "Banana Peppers", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 5, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["veg"] },
+              { "atl_place_menu_item_id": 68, "atl_place_menu_id": 13, "title": "Bean Sprouts", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 5, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["veg"] },
+              { "atl_place_menu_item_id": 69, "atl_place_menu_id": 13, "title": "Beets", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 10, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["veg","root"] },
+              { "atl_place_menu_item_id": 70, "atl_place_menu_id": 13, "title": "Bell Peppers", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 5, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["veg"] },
+              { "atl_place_menu_item_id": 71, "atl_place_menu_id": 13, "title": "Broccoli", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 5, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["veg","cruciferous"] },
+              { "atl_place_menu_item_id": 72, "atl_place_menu_id": 13, "title": "Cabbage", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 5, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["veg"] },
+              { "atl_place_menu_item_id": 73, "atl_place_menu_id": 13, "title": "Carrots", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 5, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["veg","root"] },
+              { "atl_place_menu_item_id": 74, "atl_place_menu_id": 13, "title": "Corn", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 20, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["veg","starch"] },
+              { "atl_place_menu_item_id": 75, "atl_place_menu_id": 13, "title": "Cucumber", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 5, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["veg","hydrating"] },
+              { "atl_place_menu_item_id": 76, "atl_place_menu_id": 13, "title": "Edamame", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 25, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["veg","soy"] },
+              { "atl_place_menu_item_id": 77, "atl_place_menu_id": 13, "title": "Green Peas", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 15, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["veg"] },
+              { "atl_place_menu_item_id": 78, "atl_place_menu_id": 13, "title": "Jalapeño", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 5, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["veg","spicy"] },
+              { "atl_place_menu_item_id": 79, "atl_place_menu_id": 13, "title": "Jicama", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 10, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["veg","crunchy"] },
+              { "atl_place_menu_item_id": 80, "atl_place_menu_id": 13, "title": "Mushroom", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 5, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["veg","umami"] },
+              { "atl_place_menu_item_id": 81, "atl_place_menu_id": 13, "title": "Olives (Black)", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 35, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["veg","salty"] },
+              { "atl_place_menu_item_id": 82, "atl_place_menu_id": 13, "title": "Radish", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 5, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["veg","peppery"] },
+              { "atl_place_menu_item_id": 83, "atl_place_menu_id": 13, "title": "Sun-Dried Tomatoes", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 30, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["veg","intense"] },
+              { "atl_place_menu_item_id": 84, "atl_place_menu_id": 13, "title": "Tomato", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 10, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["veg"] }
+            ]
+          },
+          {
+            "atl_place_menu_id": 14,
+            "atl_place_id": 2,
+            "place_type": "restaurant",
+            "title": "Beans",
+            "description": "Legume add-ins.",
+            "is_active": true,
+            "item_count": 2,
+            "avg_nutrition_score": null,
+            "items": [
+              { "atl_place_menu_item_id": 85, "atl_place_menu_id": 14, "title": "Black Beans", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 20, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["legume"] },
+              { "atl_place_menu_item_id": 86, "atl_place_menu_id": 14, "title": "Chickpeas", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 20, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["legume"] }
+            ]
+          },
+          {
+            "atl_place_menu_id": 15,
+            "atl_place_id": 2,
+            "place_type": "restaurant",
+            "title": "Other",
+            "description": "Additional toppers.",
+            "is_active": true,
+            "item_count": 5,
+            "avg_nutrition_score": null,
+            "items": [
+              { "atl_place_menu_item_id": 87, "atl_place_menu_id": 15, "title": "Chopped Egg", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 40, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["protein"] },
+              { "atl_place_menu_item_id": 88, "atl_place_menu_id": 15, "title": "Chopped Bacon", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 45, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["pork"] },
+              { "atl_place_menu_item_id": 89, "atl_place_menu_id": 15, "title": "Croutons", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 60, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["crunch"] },
+              { "atl_place_menu_item_id": 90, "atl_place_menu_id": 15, "title": "Pasta", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 60, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["starch"] },
+              { "atl_place_menu_item_id": 91, "atl_place_menu_id": 15, "title": "Sesame Sticks", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 70, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["crunch","seed"] }
+            ]
+          },
+          {
+            "atl_place_menu_id": 16,
+            "atl_place_id": 2,
+            "place_type": "restaurant",
+            "title": "Cheese & Nuts",
+            "description": "Cheeses and nuts.",
+            "is_active": true,
+            "item_count": 6,
+            "avg_nutrition_score": null,
+            "items": [
+              { "atl_place_menu_item_id": 92, "atl_place_menu_id": 16, "title": "Feta Cheese", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 45, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["cheese"] },
+              { "atl_place_menu_item_id": 93, "atl_place_menu_id": 16, "title": "Mixed Cheese", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 40, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["cheese"] },
+              { "atl_place_menu_item_id": 94, "atl_place_menu_id": 16, "title": "Parmesan Cheese", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 50, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["cheese"] },
+              { "atl_place_menu_item_id": 95, "atl_place_menu_id": 16, "title": "Almonds", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 45, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["nuts"] },
+              { "atl_place_menu_item_id": 96, "atl_place_menu_id": 16, "title": "Pumpkin Seed", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 45, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["seeds"] },
+              { "atl_place_menu_item_id": 97, "atl_place_menu_id": 16, "title": "Walnuts", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 50, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["nuts","omega-3"] }
+            ]
+          },
+          {
+            "atl_place_menu_id": 17,
+            "atl_place_id": 2,
+            "place_type": "restaurant",
+            "title": "Extras",
+            "description": "Premium add-ons.",
+            "is_active": true,
+            "item_count": 2,
+            "avg_nutrition_score": null,
+            "items": [
+              { "atl_place_menu_item_id": 98, "atl_place_menu_id": 17, "title": "Avocado", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 140, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["healthy-fat"] },
+              { "atl_place_menu_item_id": 99, "atl_place_menu_id": 17, "title": "Artichoke Hearts", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 15, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["veg","fiber"] }
+            ]
+          },
+          {
+            "atl_place_menu_id": 18,
+            "atl_place_id": 2,
+            "place_type": "restaurant",
+            "title": "Wrap",
+            "description": "House specialty wrap.",
+            "is_active": true,
+            "item_count": 1,
+            "avg_nutrition_score": null,
+            "items": [
+              { "atl_place_menu_item_id": 100, "atl_place_menu_id": 18, "title": "White Miso Superfood Wrap", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 870, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["wrap"] }
+            ]
+          },
+          {
+            "atl_place_menu_id": 19,
+            "atl_place_id": 2,
+            "place_type": "restaurant",
+            "title": "Entrees",
+            "description": "Signature salads and related components.",
+            "is_active": true,
+            "item_count": 10,
+            "avg_nutrition_score": null,
+            "items": [
+              { "atl_place_menu_item_id": 101, "atl_place_menu_id": 19, "title": "Small White Miso Superfood Salad", "description": null, "price": 14.00, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 720, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["salad"] },
+              { "atl_place_menu_item_id": 102, "atl_place_menu_id": 19, "title": "Regular White Miso Superfood Salad", "description": null, "price": 14.00, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 960, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["salad"] },
+              { "atl_place_menu_item_id": 103, "atl_place_menu_id": 19, "title": "White Miso Vinaigrette", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 220, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["dressing"] },
+              { "atl_place_menu_item_id": 104, "atl_place_menu_id": 19, "title": "Tortilla Strips", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 100, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["crunch"] },
+              { "atl_place_menu_item_id": 105, "atl_place_menu_id": 19, "title": "Artichoke", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 40, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["veg"] },
+              { "atl_place_menu_item_id": 106, "atl_place_menu_id": 19, "title": "Grilled Tofu Wrap", "description": null, "price": 14.00, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 700, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["wrap","vegetarian"] },
+              { "atl_place_menu_item_id": 107, "atl_place_menu_id": 19, "title": "Small Grilled Tofu Salad", "description": null, "price": 14.00, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 750, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["salad","vegetarian"] },
+              { "atl_place_menu_item_id": 108, "atl_place_menu_id": 19, "title": "Pickles", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 10, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["topping"] },
+              { "atl_place_menu_item_id": 109, "atl_place_menu_id": 19, "title": "Celery", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 3, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["veg"] },
+              { "atl_place_menu_item_id": 110, "atl_place_menu_id": 19, "title": "Regular Grilled Tofu Salad", "description": null, "price": 14.00, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 750, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["salad","vegetarian"] }
+            ]
+          },
+          {
+            "atl_place_menu_id": 20,
+            "atl_place_id": 2,
+            "place_type": "restaurant",
+            "title": "Bread",
+            "description": "Bread sides.",
+            "is_active": true,
+            "item_count": 2,
+            "avg_nutrition_score": null,
+            "items": [
+              { "atl_place_menu_item_id": 111, "atl_place_menu_id": 20, "title": "Baked Pita Strips", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 70, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["bread"] },
+              { "atl_place_menu_item_id": 112, "atl_place_menu_id": 20, "title": "Extra Croissant", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 100, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["bread","buttery"] }
+            ]
+          },
+          {
+            "atl_place_menu_id": 21,
+            "atl_place_id": 2,
+            "place_type": "restaurant",
+            "title": "Dessert",
+            "description": "Cookies and sweets.",
+            "is_active": true,
+            "item_count": 5,
+            "avg_nutrition_score": null,
+            "items": [
+              { "atl_place_menu_item_id": 113, "atl_place_menu_id": 21, "title": "Peanut Butter Cookie", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 200, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["dessert"] },
+              { "atl_place_menu_item_id": 114, "atl_place_menu_id": 21, "title": "Oatmeal Raisin Cookie", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 220, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["dessert"] },
+              { "atl_place_menu_item_id": 115, "atl_place_menu_id": 21, "title": "White Chocolate Macadamia Cookie", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 260, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["dessert"] },
+              { "atl_place_menu_item_id": 116, "atl_place_menu_id": 21, "title": "Pumpkin Puff Cookie", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 230, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["dessert","seasonal"] },
+              { "atl_place_menu_item_id": 117, "atl_place_menu_id": 21, "title": "Chocolate Chunk Cookie", "description": null, "price": null, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 180, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["dessert"] }
+            ]
+          },
+          {
+            "atl_place_menu_id": 22,
+            "atl_place_id": 2,
+            "place_type": "restaurant",
+            "title": "Drinks",
+            "description": "House lemonades and teas.",
+            "is_active": true,
+            "item_count": 7,
+            "avg_nutrition_score": null,
+            "items": [
+              { "atl_place_menu_item_id": 118, "atl_place_menu_id": 22, "title": "Peach Lemonade", "description": null, "price": 4.00, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 150, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["drink","lemonade"] },
+              { "atl_place_menu_item_id": 119, "atl_place_menu_id": 22, "title": "Raspberry Lemonade", "description": null, "price": 4.00, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 150, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["drink","lemonade"] },
+              { "atl_place_menu_item_id": 120, "atl_place_menu_id": 22, "title": "Prickly Pear Limeade", "description": null, "price": 4.00, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 150, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["drink"] },
+              { "atl_place_menu_item_id": 121, "atl_place_menu_id": 22, "title": "Pomegranate Tea", "description": null, "price": 4.00, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 5, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["drink","tea","low-sugar"] },
+              { "atl_place_menu_item_id": 122, "atl_place_menu_id": 22, "title": "Low Sugar Lemonade", "description": null, "price": 4.00, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 5, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["drink","low-sugar"] },
+              { "atl_place_menu_item_id": 123, "atl_place_menu_id": 22, "title": "Mango Habanero Lemonade", "description": null, "price": 4.00, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 110, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["drink","spicy"] },
+              { "atl_place_menu_item_id": 124, "atl_place_menu_id": 22, "title": "Sangria Lemonade", "description": null, "price": 4.00, "currency": "USD", "is_available": true, "nutrition_score": null, "calories": 120, "protein_g": null, "carbs_g": null, "fat_g": null, "tags": ["drink"] }
+            ]
+          }
+        ]
+      }    
+  ]
+  
