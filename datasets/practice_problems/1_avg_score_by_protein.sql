@@ -174,3 +174,22 @@ FROM
 GROUP BY 
     protein_type
 ORDER BY ROUND(AVG(nutrition_score),2) DESC;
+
+-- CREATE A VIEW WITH THE RAW DATA
+CREATE OR REPLACE VIEW food_desert_db.gusto_nutrition AS
+
+    SELECT 
+        *,
+        CASE
+            WHEN m.title iLIKE '%spicy chicken%' THEN 'Spicy Chicken'
+            WHEN m.title iLIKE '%grilled chicken%' THEN 'Grilled Chicken'
+            WHEN m.title iLIKE '%shrimp%' THEN 'Shrimp'
+            WHEN m.title iLIKE '%tofu%' THEN 'Tofu'
+            WHEN m.title iLIKE '%avocado%' THEN 'Avocado'
+                ELSE 'Other'
+        END AS protein_type
+    FROM food_desert_db.menu_items AS m; 
+
+SELECT * FROM food_desert_db.gusto_nutrition;
+
+
